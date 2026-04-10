@@ -1,4 +1,4 @@
-import { Task } from "../types/task";
+import { Task } from "./types/task";
 
 // This array is your "database" for Phase 1.
 // It lives in memory — data resets every time the server restarts.
